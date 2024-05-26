@@ -1,0 +1,14 @@
+Jane Brown
+Card Number: XXXXXXXXXXXX2427
+Month: January
+
+Average Monthly spending: $94.27
+You spent the most in: Travel  @ $765.74 
+You spent the least in: Utilities  @ $259.87
+
+ Entertainment ************
+     Groceries *************
+     Insurance ************************
+      Mortgage ****************
+        Travel **************************
+     Utilities *********

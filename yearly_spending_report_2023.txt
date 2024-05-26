@@ -1,0 +1,23 @@
+Jane Smith
+Card Number: XXXXXXXXXXXX1733
+Year: 2023
+
+Average Yearly spending: $29762.12
+You spent the most in: September @ $46329.96 
+You spent the least in: June @ $19015.17
+
+ Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+  *    *    *    *    *    *    *    *    *    *    *    *  
+  *    *    *    *    *    *    *    *    *    *    *    *  
+  *    *    *    *    *    *    *    *    *    *    *    *  
+  *    *    *    *    *    *    *    *    *    *    *    *  
+  *    *    *    *    *    *    *    *    *    *    *    *  
+  *    *    *    *    *         *    *    *    *    *    *  
+  *    *    *    *    *         *         *    *    *    *  
+       *         *    *         *         *    *    *    *  
+       *              *         *         *         *       
+       *              *                   *                 
+                                          *                 
+                                          *                 
+                                          *                 
+                                                            

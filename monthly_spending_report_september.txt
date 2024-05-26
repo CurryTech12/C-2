@@ -1,0 +1,14 @@
+Jane Smith
+Card Number: XXXXXXXXXXXX1733
+Month: September
+
+Average Monthly spending: $1544.33
+You spent the most in: Travel  @ $10930.07 
+You spent the least in: Insurance  @ $2643.01
+
+ Entertainment ******************
+     Groceries ***************
+     Insurance ******
+      Mortgage *********************
+        Travel ************************
+     Utilities ****************
